@@ -1,4 +1,3 @@
-# app-financas
 # PRD - Aplicativo de Finanças Pessoais Baseado em Chat
 # Product Requirements Document
 
@@ -189,4 +188,10 @@ PRÓXIMOS PASSOS (ROADMAP)
 8. Notificações e alertas
 
 ================================================================================
+<img width="886" height="498" alt="image" src="https://github.com/user-attachments/assets/50306a00-b602-411d-8017-a9ccaad92b1f" />
+<img width="886" height="498" alt="image" src="https://github.com/user-attachments/assets/33d4cd6b-00a4-4594-a78c-7051a72d7235" />
+<img width="886" height="498" alt="image" src="https://github.com/user-attachments/assets/6c20c9cf-4b27-48f0-8592-36900a4e80d6" />
+
+
+
 
