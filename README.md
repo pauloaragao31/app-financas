@@ -194,4 +194,14 @@ PRÓXIMOS PASSOS (ROADMAP)
 
 
 
+•	Uma breve reflexão sobre o processo:
+o	O que funcionou bem?
+Os menus iniciais 
+o	O que não funcionou como o esperado?
+ Ser mais especifico ao colocar os valores de entrada e saída
+o	O que aprendeu sobre conversar com IAs?
+o	São ferramentas uteis, mas não substituem o trabvalho como um todo, podem ajudar e ganhar tempo mas não dá para confiar cegamente neslas devido a questão de alucinação delas e precisa no mínimo ter noção do que está pedindo e fazendo para ter uma base para criticar e modificar se necessário a entrega da IA.
+
+
+
 
